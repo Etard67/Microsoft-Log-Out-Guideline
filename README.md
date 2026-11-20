@@ -5,7 +5,7 @@
 
 ### 應用場景
 
-打開 Windows 的帳戶設定後，發現目前登入的是不想使用的 Microsoft 帳戶，而不是本機帳戶。你想先切換成「本機帳戶」，再登入自己的 Microsoft 帳戶。
+打開 Windows 的帳戶設定後，發現目前登入的是不想使用的 Microsoft 帳戶，而不是本機帳戶。你想登入自己的 Microsoft 帳戶。
 
 ### 操作步驟
 
@@ -42,7 +42,7 @@
 
 ### When to use this guide
 
-You open Windows account settings and find that Windows is using a Microsoft account you do not want to use. You want to switch to a local account first, then sign in to Windows with your own Microsoft account.
+You open Windows account settings and find that Windows is using a Microsoft account you do not want to use. You want to switch to your own Microsoft account.
 
 ### Steps
 
